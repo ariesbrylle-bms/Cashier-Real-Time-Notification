@@ -1,3 +1,7 @@
 # Cashier Real Time Notification Sample
 
-## install node and npm
+This is a sample of Socket io real time notification.
+
+## install node and npm and run the following commands
+- npm install
+- npm start
