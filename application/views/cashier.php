@@ -150,11 +150,11 @@
   };
 
   // function for on mouse leave
-  document.addEventListener("mouseleave", function(event){
-    if(event.clientY <= 0 || event.clientX <= 0 || (event.clientX >= window.innerWidth || event.clientY >= window.innerHeight))
-    {
-      alert("Are you sure you want to leave this page?");
-    }
-  });
+  // document.addEventListener("mouseleave", function(event){
+  //   if(event.clientY <= 0 || event.clientX <= 0 || (event.clientX >= window.innerWidth || event.clientY >= window.innerHeight))
+  //   {
+  //     alert("Are you sure you want to leave this page?");
+  //   }
+  // });
 </script>
 </html>
